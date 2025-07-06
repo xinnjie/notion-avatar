@@ -208,9 +208,6 @@ const Home: NextPage = () => {
       <Header />
       <main className="my-5">
         <AvatarEditor />
-        <ResourceStore />
-        <WhosUsing />
-        <UseCases />
       </main>
       <Footer />
     </>
